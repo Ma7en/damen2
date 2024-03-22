@@ -8,6 +8,7 @@ import Footer from "../../ui/footer/Footer";
 import Header from "../../ui/header/Header";
 import Landing from "../../ui/landing/Landing";
 import LinksCom from "../../ui/links/LinksCom";
+import ProductCom from "../../ui/product/ProductCom";
 import TestimonialsCom from "../../ui/testimonial/TestimonialsCom";
 import TitlesCom from "../../ui/titles/TitlesCom";
 
@@ -21,6 +22,7 @@ export default function Homepage() {
             <Header />
             <TitlesCom />
             <Landing />
+            <ProductCom />
             {/* <AboutCom /> */}
             {/* <TestimonialsCom /> */}
             {/* <VideosCom /> */}

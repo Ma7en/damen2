@@ -16,7 +16,7 @@ function Landing() {
     const navigate = useNavigate();
     return (
         <>
-            <section className="hero" id="hero">
+            <section className="hero product" id="hero">
                 <div className="container">
                     <div className="product-slides">
                         <div className="slider-banner" data-slider>

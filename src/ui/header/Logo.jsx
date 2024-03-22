@@ -30,7 +30,7 @@ function Logo() {
         <>
             <StyledLogo to="/home" className="logo">
                 <img
-                    src="/public/images/logo/Damen Cash colored English.svg"
+                    src="/images/logo/Damen Cash colored English.svg"
                     alt="Damen logo"
                 />
             </StyledLogo>
